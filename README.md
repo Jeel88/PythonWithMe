@@ -200,25 +200,6 @@ python-from-zero-to-expert/
 └── README.md
 ````
 
----
-
-## 🔀 Git & GitHub
-
-Git is part of the learning process from Day 1.
-
-Example commit messages:
-
-```text
-feat: add hello world program
-feat: practice Python variables
-feat: learn conditional statements
-feat: solve basic loop problems
-feat: build calculator application
-```
-
-This repository will become both:
-
-**📖 A learning journal + 💼 a coding portfolio**
 
 ---
 

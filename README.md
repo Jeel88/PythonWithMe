@@ -30,15 +30,15 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 - [x] Hello World
 - [x] Comments
-- [ ] Variables
-- [ ] Data Types
-- [ ] Input & Output
-- [ ] Type Conversion
-- [ ] Operators
-- [ ] Strings
-- [ ] Conditions
-- [ ] Loops
-- [ ] Basic Problem Solving
+- [x] Variables
+- [x] Data Types
+- [x] Input & Output
+- [x] Type Conversion
+- [x] Operators
+- [x] Strings
+- [x] Conditions
+- [x] Loops
+- [x] Basic Problem Solving
 
 ### 02 — Data Structures
 

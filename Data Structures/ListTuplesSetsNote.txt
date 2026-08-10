@@ -1,0 +1,3 @@
+List   -> ordered + changeable + duplicates allowed
+Tuple  -> ordered + NOT changeable + duplicates allowed
+Set    -> unique values + no indexing

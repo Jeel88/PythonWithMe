@@ -42,13 +42,13 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 02 — Data Structures
 
-- [ ] Lists
-- [ ] Tuples
-- [ ] Sets
-- [ ] Dictionaries
-- [ ] Slicing
-- [ ] Comprehensions
-- [ ] Nested Data Structures
+- [x] Lists
+- [x] Tuples
+- [x] Sets
+- [x] Dictionaries
+- [x] Slicing
+- [x] Comprehensions
+- [x] Nested Data Structures
 
 ### 03 — Functions
 

@@ -52,15 +52,15 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 03 — Functions
 
-- [ ] Functions
-- [ ] Parameters & Arguments
-- [ ] Return Values
-- [ ] Default & Keyword Arguments
-- [ ] `*args` & `**kwargs`
-- [ ] Scope
-- [ ] Lambda
-- [ ] Recursion
-- [ ] `map()`, `filter()`, `reduce()`
+- [x] Functions
+- [x] Parameters & Arguments
+- [x] Return Values
+- [x] Default & Keyword Arguments
+- [x] `*args` & `**kwargs`
+- [x] Scope
+- [x] Lambda
+- [x] Recursion
+- [x] `map()`, `filter()`, `reduce()`
 
 ### 04 — Problem Solving & DSA
 

@@ -8,3 +8,5 @@ elif b>= a and b>= c:
 else:
     largest =c
 print("Largest Number is:",largest)
+
+print(max(a,b,c))

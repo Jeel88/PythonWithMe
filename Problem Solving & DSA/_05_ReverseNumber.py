@@ -5,3 +5,6 @@ while number>0:
     revnumber=revnumber*10+digit
     number=number//10
 print(revnumber)    
+
+num=9832743
+print(str(num)[::-1])

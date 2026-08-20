@@ -66,15 +66,14 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 04 — Problem Solving & DSA
 
-- [ ] Number Problems
-- [ ] String Problems
-- [ ] Array/List Problems
-- [ ] Searching
-- [ ] Sorting
-- [ ] Hashing
-- [ ] Two Pointers
-- [ ] Recursion
-- [ ] Basic DSA
+- [x] Number Problems
+- [x] String Problems
+- [x] Array/List Problems
+- [x] Searching
+- [x] Sorting
+- [x] Hashing
+- [x] Two Pointers
+- [x] Recursion
 
 ### 05 — Object-Oriented Programming
 

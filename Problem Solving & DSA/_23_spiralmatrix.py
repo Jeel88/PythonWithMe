@@ -3,9 +3,9 @@ def l1(list1,top,bottom,right,left):
 
         for i in range(top,right+1):
             print(list1[top][i])
-        for i in range(top+1,bottom):
+        for i in range(top+1,bottom+1):
             print(list1[i][right])
-        for i in range(bottom,left-1,-1):
+        for i in range(right-1,left-1,-1):
             print(list1[bottom][i])
         for j in range(bottom-1,top-1,-1):
             print(list1[j][left])

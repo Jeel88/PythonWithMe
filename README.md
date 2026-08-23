@@ -77,15 +77,14 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 05 — Object-Oriented Programming
 
-- [ ] Classes & Objects
-- [ ] Constructors
-- [ ] Encapsulation
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Abstraction
-- [ ] Composition
-- [ ] Magic/Dunder Methods
-- [ ] Dataclasses
+- [x] Classes & Objects
+- [x] Constructors
+- [x] Encapsulation
+- [x] Inheritance
+- [x] Polymorphism
+- [x] Abstraction
+- [x] Composition
+- [x] Magic/Dunder Methods
 
 ### 06 — Intermediate Python
 

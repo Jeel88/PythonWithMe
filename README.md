@@ -1,9 +1,6 @@
-````markdown
 # 🐍 Python — From Zero to Expert
 
 > A structured, hands-on journey to master Python from the fundamentals to advanced and professional development.
-
-
 
 ---
 
@@ -18,7 +15,6 @@ The goal is not just to learn Python syntax, but to build a strong understanding
 - 🧠 Problem solving
 - 🛠️ Real-world projects
 - 🔀 Git & GitHub
-- 🖥️ Desktop GUI development with Qt
 - 🌐 APIs and databases
 - 🚀 Advanced Python concepts
 
@@ -75,6 +71,8 @@ Every major topic I learn will be added to this repository with code, exercises,
 - [x] Two Pointers
 - [x] Recursion
 
+> Advanced DSA is practiced separately through LeetCode.
+
 ### 05 — Object-Oriented Programming
 
 - [x] Classes & Objects
@@ -128,44 +126,7 @@ Every major topic I learn will be added to this repository with code, exercises,
 - [ ] Project Structure
 - [ ] Python Packaging
 
-### 09 — Python GUI Development — Qt
-
-**Framework: PySide6 / Qt for Python**
-
-- [ ] GUI Fundamentals
-- [ ] Windows & Applications
-- [ ] Widgets
-- [ ] Buttons & Inputs
-- [ ] Layouts
-- [ ] Signals & Slots
-- [ ] Events
-- [ ] Dialogs
-- [ ] Tables & Lists
-- [ ] Menus & Toolbars
-- [ ] Qt Designer
-- [ ] `.ui` Files
-- [ ] Styling with Qt Style Sheets
-- [ ] SQLite + Qt
-- [ ] API + Qt
-- [ ] Multithreading
-- [ ] Packaging Desktop Applications
-
-### 10 — Professional Python
-
-- [ ] Clean Code
-- [ ] PEP 8
-- [ ] Type Checking
-- [ ] Unit Testing
-- [ ] Pytest
-- [ ] Debugging
-- [ ] Design Patterns
-- [ ] Concurrency
-- [ ] Multithreading
-- [ ] Multiprocessing
-- [ ] Async Python
-- [ ] `asyncio`
-
-### 11 — Real-World Projects
+### 09 — Real-World Projects
 
 - [ ] Calculator
 - [ ] Notes App
@@ -193,47 +154,6 @@ python-from-zero-to-expert/
 ├── 06_intermediate_python/
 ├── 07_advanced_python/
 ├── 08_real_world_python/
-├── 09_qt_gui/
-├── 10_professional_python/
-├── 11_projects/
+├── 09_projects/
 │
 └── README.md
-````
-
-
----
-
-## 🎯 Learning Philosophy
-
-> **Learn → Understand → Practice → Build → Commit → Repeat**
-
-The goal is to understand **why** the code works, not simply memorize syntax.
-
----
-
-## 🏁 Final Goal
-
-By the end of this journey, I want to be comfortable using Python for:
-
-* 🧠 Problem Solving & DSA
-* 🖥️ Desktop Applications
-* 🌐 Backend & APIs
-* 🗄️ Databases
-* 🤖 Automation
-* 📊 Data & Machine Learning
-* 🚀 Production-Level Python Projects
-
----
-
-## ⭐ Journey Status
-
-**Started:** August 2026
-**Current Stage:** 🟢 Python Fundamentals
-**Goal:** 🐍 Python Expert
-
----
-
-> Built one concept, one problem, and one commit at a time. 🚀
-
-```
-```

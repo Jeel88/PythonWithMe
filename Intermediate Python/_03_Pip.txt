@@ -1,0 +1,5 @@
+pip install package
+pip uninstall package
+pip list
+pip freeze
+pip install -r requirements.txt

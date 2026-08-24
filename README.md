@@ -100,25 +100,25 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 07 — Advanced & Real-World Python
 
-- [ ] Python Memory & References
-- [ ] Mutability & Immutability
-- [ ] Shallow vs Deep Copy
-- [ ] Closures
-- [ ] Advanced Decorators
-- [ ] Type Hints
-- [ ] Advanced OOP
-- [ ] Performance & Optimization
-- [ ] APIs & HTTP Requests
-- [ ] REST APIs
-- [ ] Web Scraping
-- [ ] Databases
-- [ ] SQLite
-- [ ] MySQL
-- [ ] Environment Variables
-- [ ] Logging
-- [ ] Testing
-- [ ] Project Structure
-- [ ] Python Packaging
+- [x] Python Memory & References
+- [x] Mutability & Immutability
+- [x] Shallow vs Deep Copy
+- [x] Closures
+- [x] Advanced Decorators
+- [x] Type Hints
+- [x] Advanced OOP
+- [x] Performance & Optimization
+- [x] APIs & HTTP Requests
+- [x] REST APIs
+- [x] Web Scraping
+- [x] Databases
+- [x] SQLite
+- [x] MySQL
+- [x] Environment Variables
+- [x] Logging
+- [x] Testing
+- [x] Project Structure
+- [x] Python Packaging
 ```
 
 ## 📂 Repository Structure

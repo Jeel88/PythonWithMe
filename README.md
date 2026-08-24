@@ -86,34 +86,29 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 ### 06 — Intermediate Python
 
-- [ ] Modules & Packages
-- [ ] `pip`
-- [ ] File Handling
-- [ ] Exception Handling
-- [ ] JSON
-- [ ] CSV
-- [ ] Regular Expressions
-- [ ] Iterators
-- [ ] Generators
-- [ ] Decorators
-- [ ] Context Managers
+- [x] Modules & Packages
+- [x] `pip`
+- [x] File Handling
+- [x] Exception Handling
+- [x] JSON
+- [x] CSV
+- [x] Regular Expressions
+- [x] Iterators
+- [x] Generators
+- [x] Decorators
+- [x] Context Managers
 
-### 07 — Advanced Python
+### 07 — Advanced & Real-World Python
 
-- [ ] Python Memory Model
-- [ ] References & Mutability
+- [ ] Python Memory & References
+- [ ] Mutability & Immutability
 - [ ] Shallow vs Deep Copy
 - [ ] Closures
 - [ ] Advanced Decorators
-- [ ] Iterables & Iterators
 - [ ] Type Hints
 - [ ] Advanced OOP
 - [ ] Performance & Optimization
-
-### 08 — Real-World Python
-
-- [ ] APIs
-- [ ] HTTP Requests
+- [ ] APIs & HTTP Requests
 - [ ] REST APIs
 - [ ] Web Scraping
 - [ ] Databases
@@ -124,8 +119,7 @@ Every major topic I learn will be added to this repository with code, exercises,
 - [ ] Testing
 - [ ] Project Structure
 - [ ] Python Packaging
-
----
+```
 
 ## 📂 Repository Structure
 

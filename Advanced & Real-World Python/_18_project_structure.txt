@@ -1,0 +1,23 @@
+project = {
+    "name": "Student Management System",
+    "folders": [
+        "src",
+        "tests",
+        "config"
+    ],
+    "files": [
+        "main.py",
+        "requirements.txt",
+        ".env",
+        ".gitignore",
+        "README.md"
+    ]
+}
+
+
+for folder in project["folders"]:
+    print(folder)
+
+
+for file in project["files"]:
+    print(file)

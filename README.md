@@ -126,19 +126,6 @@ Every major topic I learn will be added to this repository with code, exercises,
 - [ ] Project Structure
 - [ ] Python Packaging
 
-### 09 — Real-World Projects
-
-- [ ] Calculator
-- [ ] Notes App
-- [ ] Expense Tracker
-- [ ] Password Manager
-- [ ] File/Developer Toolkit
-- [ ] PDF Toolkit
-- [ ] Inventory Manager
-- [ ] Doctor Appointment Application
-- [ ] API-Based Application
-- [ ] Full-Scale Python Project
-
 ---
 
 ## 📂 Repository Structure
@@ -154,6 +141,5 @@ python-from-zero-to-expert/
 ├── 06_intermediate_python/
 ├── 07_advanced_python/
 ├── 08_real_world_python/
-├── 09_projects/
 │
 └── README.md

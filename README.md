@@ -88,7 +88,6 @@ Every major topic I learn will be added to this repository with code, exercises,
 
 - [ ] Modules & Packages
 - [ ] `pip`
-- [ ] Virtual Environments
 - [ ] File Handling
 - [ ] Exception Handling
 - [ ] JSON
